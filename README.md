@@ -2,6 +2,8 @@
 
 Projeto de estudo do curso de **Spring Boot da Alura**, construindo a API REST da clínica fictícia **Voll.med** para praticar os fundamentos de desenvolvimento backend com Java e Spring.
 
+> A ideia não foi fazer algo complexo, mas sim entender na prática alguns conceitos do Spring. Não foi usado autocomplete nem geração de código através de Agents, salvo neste arquivo README.
+
 ## O que foi criado
 
 - **CRUD de Médicos** (`/medicos`): cadastro, listagem paginada e ordenada por nome, atualização e exclusão lógica (campo `ativo`)
